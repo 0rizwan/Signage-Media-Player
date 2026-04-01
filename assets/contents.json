@@ -1,0 +1,24 @@
+{
+  "result": [
+    {
+      "type": "image",
+      "url": "https://images.pexels.com/photos/32417863/pexels-photo-32417863.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    },
+    {
+      "type": "image",
+      "url": "https://images.pexels.com/photos/34213341/pexels-photo-34213341.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ]
+}
